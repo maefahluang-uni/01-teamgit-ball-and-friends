@@ -72,6 +72,6 @@ public class Counter {
         // Count the occurrences of the word
         while (matcher.find()) {
             _ctr++;
-        }
+		}
 	 }
 }
